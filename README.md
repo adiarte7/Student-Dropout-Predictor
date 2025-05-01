@@ -34,7 +34,7 @@ This project uses a supervised machine learning model to predict student dropout
 
 ## Evaluation Metrics
 
-- Accuracy: 89%
+- Accuracy: 91%
 - Confusion Matrix
 - Classification Report (Precision, Recall, F1-score)
 
